@@ -7,6 +7,10 @@ Predicting Car's Fuel economy using regression techniques
 - Compared a simple linear model with a curve fitting model and interpreted results
 
 ##  Visualizations
-![alt text](image.jpg)
+![Boxplots](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/descarga.png)
+
+![Regression and Residuals](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/regression.png)
+
+![Heatmap](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/heatmap.png)
 
 ### [Link To Notebook](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/RegressionPredictiveModel.ipynb)
