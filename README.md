@@ -6,4 +6,7 @@ Predicting Car's Fuel economy using regression techniques
 - Used pre-processing techniques on the data to resolve inconsistencies such as missing data and removing outiliers
 - Compared a simple linear model with a curve fitting model and interpreted results
 
+##3 Visualizations
+![alt text](image.jpg)
+
 ### [Link To Notebook](https://github.com/miguelrizzog96/Regression_Predictive_Model/blob/main/RegressionPredictiveModel.ipynb)
